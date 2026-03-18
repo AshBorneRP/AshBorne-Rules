@@ -63,8 +63,8 @@ AshBorne is an international community, but to ensure fair moderation and cohesi
 * You may absolutely use brief phrases in other languages to add cultural flavor to your character.
 * However, you cannot use a foreign language to exclude others from a scene, hide motives, or bypass IC communication.
 <br><br>
-<hr>
-<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
-    <a href="./" style="text-decoration: none; color: #888;">⬅ PREVIOUS</a>
-    <a href="community-values" style="text-decoration: none; color: #ff6600;">NEXT: VALUES ➔</a>
+<hr style="margin-top: 50px; border: 0; border-top: 1px solid #222;">
+<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px; margin-bottom: 40px;">
+    <a href="community-values.html" style="text-decoration: none; color: #888;">⬅ PREVIOUS: VALUES</a>
+    <a href="roleplay-guidelines.html" style="text-decoration: none; color: #ff6600;">NEXT: RP GUIDELINES ➔</a>
 </div>
