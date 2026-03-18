@@ -28,7 +28,11 @@
       letter-spacing: 1px;
       margin-top: 2em;
     }
-    h1 { font-size: 2.5em; border-bottom: 1px solid #222; padding-bottom: 10px; margin-top: 0; }
+    
+    /* Headings Sizing */
+    h1 { font-size: 1.8em; border-bottom: 1px solid #222; padding-bottom: 10px; margin-top: 0; }
+    h2 { font-size: 1.5em; }
+    h3 { font-size: 1.2em; color: #ff6600; }
 
     /* Left Sidebar: Sleek and Website-like */
     header {
@@ -47,8 +51,15 @@
       border-bottom: none;
       margin-bottom: 5px;
       text-transform: uppercase;
+      margin-top: 0;
     }
-    header p { font-size: 13px; color: #888; margin-bottom: 40px; font-weight: 300; }
+    header p { 
+      font-size: 13px; 
+      color: #888; 
+      margin-bottom: 40px; 
+      font-weight: 300; 
+      line-height: 1.5;
+    }
 
     /* Sidebar Navigation Links */
     header ul { list-style: none; padding: 0; margin: 0; }
@@ -81,7 +92,7 @@
     
     blockquote { 
       background: #151515; 
-      border-left: 4px solid #ff6600; /* AshBorne Orange */
+      border-left: 4px solid #ff6600; 
       padding: 15px 20px; 
       color: #bbb; 
       margin-left: 0; 
@@ -95,7 +106,7 @@
       header ul { display: flex; flex-wrap: wrap; gap: 15px; }
       header li { margin-bottom: 0; }
       .wrapper { margin-left: 0; padding: 40px 20px; }
-      h1 { font-size: 2em; }
+      h1 { font-size: 1.5em; } 
     }
   </style>
 </head>
@@ -103,7 +114,7 @@
 
   <header>
     <h1>ASHBORNE RP</h1>
-    <p>18+ Official Rulebook</p>
+    <p>The Official Rulebook<br>18+ DayZ Community</p>
 
     <nav>
       <ul>
@@ -114,17 +125,4 @@
         <li><a href="{{ '/roleplay-guidelines' | relative_url }}">RP Guidelines</a></li>
         <li><a href="{{ '/hostile-roleplay' | relative_url }}">Hostile & KOS</a></li>
         <li><a href="{{ '/character-kill-policy' | relative_url }}">CK Policy</a></li>
-        <li><a href="{{ '/base-building' | relative_url }}">Base Building</a></li>
-        <li><a href="{{ '/other-rules' | relative_url }}">Misc Rules</a></li>
-      </ul>
-    </nav>
-  </header>
-
-  <div class="wrapper">
-    <section>
-      {{ content }}
-    </section>
-  </div>
-
-</body>
-</html>
+        <li><a href="{{
