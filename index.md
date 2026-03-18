@@ -15,5 +15,5 @@ It is your personal responsibility to stay up-to-date with all the rules coverin
 <hr style="margin-top: 50px; border: 0; border-top: 1px solid #222;">
 <div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px; margin-bottom: 40px;">
     <span></span>
-    <a href="core-rules.html" style="text-decoration: none; color: #ff6600;">NEXT: CORE RULES ➔</a>
+    <a href="philosophy.html" style="text-decoration: none; color: #ff6600;">NEXT: PHILOSOPHY ➔</a>
 </div>
