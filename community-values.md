@@ -47,6 +47,6 @@ AshBorne is at its best when we actively support each other's creative visions.
 <br><br>
 <hr style="margin-top: 50px; border: 0; border-top: 1px solid #222;">
 <div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px; margin-bottom: 40px;">
-    <a href="core-rules.html" style="text-decoration: none; color: #888;">⬅ PREVIOUS: CORE RULES</a>
+    <a href="discord-conduct.html" style="text-decoration: none; color: #888;">⬅ PREVIOUS: DISCORD</a>
     <a href="general-expectations.html" style="text-decoration: none; color: #ff6600;">NEXT: EXPECTATIONS ➔</a>
 </div>
