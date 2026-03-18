@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # 📚 AshBorne RolePlay Server Rules
 
 **An 18+ DayZ RolePlay Community**
