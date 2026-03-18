@@ -24,4 +24,9 @@ Welcome to **AshBorne RolePlay**. Tell your story.
 
 ---
 
-### [➡️ Next Page: General Rules](general-rules.md) 
+<br><br>
+<hr>
+<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
+    <span></span>
+    <a href="core-rules" style="text-decoration: none; color: #ff6600;">NEXT: CORE RULES ➔</a>
+</div>
