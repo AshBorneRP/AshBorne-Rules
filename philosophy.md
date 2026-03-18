@@ -25,5 +25,5 @@ Welcome to **AshBorne RolePlay**. Tell your story.
 <hr style="margin-top: 50px; border: 0; border-top: 1px solid #222;">
 <div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px; margin-bottom: 40px;">
     <a href="./" style="text-decoration: none; color: #888;">⬅ PREVIOUS: WELCOME</a>
-    <a href="discord-conduct.html" style="text-decoration: none; color: #ff6600;">NEXT: DISCORD CONDUCT ➔</a>
+    <a href="core-rules.html" style="text-decoration: none; color: #ff6600;">NEXT: CORE RULES ➔</a>
 </div>
