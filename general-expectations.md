@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 📙 2. General Expectations
 
 These baseline standards apply to every single member of AshBorne RolePlay, during every session, regardless of your character's background or your personal playstyle. 
