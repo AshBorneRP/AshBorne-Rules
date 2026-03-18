@@ -14,4 +14,9 @@ It is your personal responsibility to stay up-to-date with all the rules coverin
 
 ---
 
-### [⬅️ Previous: Philosophy](README.md) | [➡️ Next Page: Core Rules](core-rules.md)
+<br><br>
+<hr>
+<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
+    <a href="./" style="text-decoration: none; color: #888;">⬅ PREVIOUS</a>
+    <a href="community-values" style="text-decoration: none; color: #ff6600;">NEXT: VALUES ➔</a>
+</div>
