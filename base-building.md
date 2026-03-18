@@ -1,3 +1,6 @@
+### [🏠 Home](./) | [📜 Rules](core-rules) | [🤝 Values](community-values) | [📙 Expectations](general-expectations) | [🎭 Guidelines](roleplay-guidelines) | [🔫 Hostile](hostile-roleplay) | [☠️ CK Policy](character-kill-policy) | [🏰 Building](base-building) | [⚙️ Misc](other-rules)
+---
+
 # 🏰 7. Compounds & Raiding
 
 On AshBorne RolePlay, constructing a base is about establishing your footprint in the world, not hoarding weapons. A fortress must generate roleplay and serve a narrative purpose. 
