@@ -1,3 +1,6 @@
+### [🏠 Home](./) | [📜 Rules](core-rules) | [🤝 Values](community-values) | [📙 Expectations](general-expectations) | [🎭 Guidelines](roleplay-guidelines) | [🔫 Hostile](hostile-roleplay) | [☠️ CK Policy](character-kill-policy) | [🏰 Building](base-building) | [⚙️ Misc](other-rules)
+---
+
 # ⚙️ 9. Miscellaneous Provisions
 
 Not every system requires its own dedicated chapter, but the following rules are essential for maintaining server stability, immersion, and fair play. These are the final "anchors" that keep the AshBorne experience grounded.
