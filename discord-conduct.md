@@ -64,9 +64,6 @@ These conversations almost always spiral out of control and fracture community t
 
 ### 🤝 3.8 Foster the Community
 Every single message you send either builds this community up or chips away at its foundation. You are part of a collective. Ensure your presence makes AshBorne a better, more welcoming place for everyone else to enjoy.
-
----
-
 <br><br>
 <hr>
 <div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
