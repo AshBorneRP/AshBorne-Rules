@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 🔫 5. Hostile Roleplay
 
 Violence and fear are vital components of the **AshBorne RolePlay** universe. However, if your aggression does not serve the overarching narrative, it does not belong here.
