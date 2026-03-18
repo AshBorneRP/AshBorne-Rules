@@ -80,4 +80,9 @@ But when you pull that trigger—**make it count.**
 
 ---
 
-### [⬅️ Previous: 4. Roleplay Guidelines](roleplay-guidelines.md) | [➡️ Next Page: 6. Character Permadeath](character-kill-policy.md)
+<br><br>
+<hr>
+<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
+    <a href="./" style="text-decoration: none; color: #888;">⬅ PREVIOUS</a>
+    <a href="community-values" style="text-decoration: none; color: #ff6600;">NEXT: VALUES ➔</a>
+</div>
