@@ -1,42 +1,42 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ site.title | default: site.github.repository_name }}</title>
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <style>
-      /* Force vertical sidebar links */
-      header ul { list-style: none; padding: 0; margin: 20px 0; }
-      header li { margin-bottom: 15px; display: block; border-bottom: 1px solid #333; padding-bottom: 5px; }
-      header a { text-decoration: none; color: #ffd700 !0important; font-weight: bold; font-size: 14px; }
-      .wrapper { max-width: 1000px; }
-      section { float: right; width: 65%; }
-      header { float: left; width: 25%; }
-      @media print, screen and (max-width: 720px) {
-        header, section { float: none; width: 100%; }
-      }
-    </style>
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>{{ site.title }}</h1>
-        <p>{{ site.description }}</p>
-        
-        <nav>
-          {% include nav.md %}
-        </nav>
-      </header>
-      
-      <section>
-        {{ content }}
-      </section>
-      
-      <footer>
-        <p><small>AshBorne RolePlay &copy; 2026</small></p>
-      </footer>
-    </div>
-  </body>
+<head>
+  <meta charset="utf-8">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  <style>
+    body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 1.6; color: #eee; background: #111; margin: 0; display: flex; }
+    /* Sidebar Styling */
+    header { width: 260px; height: 100vh; background: #1a1a1a; padding: 30px 20px; position: fixed; border-right: 1px solid #333; overflow-y: auto; }
+    header h1 { font-size: 20px; color: #ffd700; margin-bottom: 5px; }
+    header p { font-size: 12px; color: #888; margin-bottom: 30px; }
+    header ul { list-style: none; padding: 0; }
+    header li { margin-bottom: 12px; font-size: 14px; }
+    header a { color: #ccc; text-decoration: none; transition: 0.3s; }
+    header a:hover { color: #ffd700; padding-left: 5px; }
+    /* Main Content Styling */
+    .wrapper { margin-left: 300px; padding: 60px 40px; max-width: 800px; }
+    hr { border: 0; border-top: 1px solid #333; margin: 40px 0; }
+    blockquote { border-left: 4px solid #ffd700; padding-left: 20px; color: #bbb; }
+    @media (max-width: 800px) {
+      body { display: block; }
+      header { width: 100%; height: auto; position: relative; border-right: none; border-bottom: 1px solid #333; }
+      .wrapper { margin-left: 0; padding: 20px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>{{ site.title }}</h1>
+    <p>{{ site.description }}</p>
+    <nav>
+      {% include nav.md %}
+    </nav>
+  </header>
+  <div class="wrapper">
+    <section>
+      {{ content }}
+    </section>
+  </div>
+</body>
 </html>
