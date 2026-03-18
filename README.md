@@ -1,6 +1,3 @@
-### [🏠 Home](./) | [📜 Rules](core-rules) | [🤝 Values](community-values) | [📙 Expectations](general-expectations) | [🎭 Guidelines](roleplay-guidelines) | [🔫 Hostile](hostile-roleplay) | [☠️ CK Policy](character-kill-policy) | [🏰 Building](base-building) | [⚙️ Misc](other-rules)
----
-
 # 🎭 Our RolePlay Philosophy
 
 **AshBorne RolePlay** is dedicated to fostering deep, realistic, and grounded storytelling. 
