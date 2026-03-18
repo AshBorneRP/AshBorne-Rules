@@ -45,4 +45,9 @@ Staff and Event Team members occasionally play unique characters marked by **Eve
 
 ---
 
-### [⬅️ Previous: 8. Staff Discretion & Player Trust](staff-discretion.md) | [🏁 Return to Start: Philosophy](README.md)
+<br><br>
+<hr>
+<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
+    <a href="./" style="text-decoration: none; color: #888;">⬅ PREVIOUS</a>
+    <a href="community-values" style="text-decoration: none; color: #ff6600;">NEXT: VALUES ➔</a>
+</div>
