@@ -3,79 +3,119 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ site.title | default: "AshBorne RolePlay" }}</title>
+  <title>{{ site.title | default: "AshBorne RolePlay | Rulebook" }}</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+
   <style>
-    /* General Body Setup */
+    /* Base Vibe: Dark, Gritty, Premium */
     body {
-      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-      line-height: 1.6;
-      color: #eee;
-      background: #111;
+      font-family: 'Inter', sans-serif;
+      line-height: 1.7;
+      color: #d1d5db; /* Soft light grey for easy reading */
+      background: #0a0a0a; /* Deep charcoal/black */
       margin: 0;
       display: flex;
     }
 
-    /* Fixed Left Sidebar */
+    /* Headings: Cinematic and Bold */
+    h1, h2, h3, h4 {
+      font-family: 'Cinzel', serif;
+      color: #ffffff;
+      font-weight: 700;
+      letter-spacing: 1px;
+      margin-top: 2em;
+    }
+    h1 { font-size: 2.5em; border-bottom: 1px solid #222; padding-bottom: 10px; margin-top: 0; }
+
+    /* Left Sidebar: Sleek and Website-like */
     header {
-      width: 260px;
+      width: 280px;
       height: 100vh;
-      background: #1a1a1a;
-      padding: 30px 20px;
+      background: #111111;
+      padding: 40px 25px;
       position: fixed;
-      border-right: 1px solid #333;
+      border-right: 1px solid #222;
       overflow-y: auto;
       box-sizing: border-box;
     }
-    header h1 { font-size: 22px; color: #ffd700; margin-top: 0; margin-bottom: 5px; }
-    header p { font-size: 13px; color: #888; margin-bottom: 30px; }
+    header h1 { 
+      font-size: 24px; 
+      color: #d4af37; /* Muted Gold to match the premium vibe */
+      border-bottom: none;
+      margin-bottom: 5px;
+      text-transform: uppercase;
+    }
+    header p { font-size: 13px; color: #888; margin-bottom: 40px; font-weight: 300; }
 
-    /* The Navigation Menu */
+    /* Sidebar Navigation Links */
     header ul { list-style: none; padding: 0; margin: 0; }
-    header li { margin-bottom: 15px; }
-    header a { color: #ccc; text-decoration: none; font-size: 15px; font-weight: bold; transition: 0.2s; display: block; }
-    header a:hover { color: #ffd700; padding-left: 5px; }
+    header li { margin-bottom: 18px; }
+    header a { 
+      color: #9ca3af; 
+      text-decoration: none; 
+      font-size: 13px; 
+      font-weight: 600; 
+      text-transform: uppercase; /* Makes it look like website navigation */
+      letter-spacing: 1.5px;
+      transition: all 0.3s ease; 
+      display: block; 
+    }
+    header a:hover { color: #d4af37; padding-left: 8px; }
 
     /* Main Content Area */
     .wrapper {
-      margin-left: 260px; /* Same as sidebar width */
-      padding: 50px 5%;
-      max-width: 800px;
+      margin-left: 280px;
+      padding: 60px 8%;
+      max-width: 900px;
       width: 100%;
       box-sizing: border-box;
     }
 
-    /* Markdown Elements styling */
-    .wrapper a { color: #ffd700; text-decoration: none; }
-    .wrapper a:hover { text-decoration: underline; }
-    hr { border: 0; border-top: 1px solid #333; margin: 40px 0; }
-    blockquote { border-left: 4px solid #ffd700; padding-left: 20px; color: #bbb; margin-left: 0; }
-    code { background: #222; padding: 2px 5px; border-radius: 3px; font-family: monospace; }
+    /* Formatting for Rules */
+    .wrapper a { color: #d4af37; text-decoration: none; font-weight: 600; transition: 0.2s; }
+    .wrapper a:hover { color: #ffffff; }
+    hr { border: 0; border-top: 1px solid #222; margin: 50px 0; }
+    
+    blockquote { 
+      background: #151515; 
+      border-left: 4px solid #d4af37; 
+      padding: 15px 20px; 
+      color: #bbb; 
+      margin-left: 0; 
+      font-style: italic;
+    }
 
-    /* Mobile Responsive */
-    @media (max-width: 800px) {
+    /* Mobile Responsive Fixes */
+    @media (max-width: 850px) {
       body { display: block; }
-      header { width: 100%; height: auto; position: relative; border-right: none; border-bottom: 1px solid #333; }
-      .wrapper { margin-left: 0; padding: 30px 20px; }
+      header { width: 100%; height: auto; position: relative; border-right: none; border-bottom: 1px solid #222; padding: 30px 20px; }
+      header ul { display: flex; flex-wrap: wrap; gap: 15px; }
+      header li { margin-bottom: 0; }
+      .wrapper { margin-left: 0; padding: 40px 20px; }
+      h1 { font-size: 2em; }
     }
   </style>
 </head>
 <body>
 
   <header>
-    <h1>AshBorne RolePlay</h1>
-    <p>An 18+ DayZ RolePlay Community</p>
+    <h1>AshBorne</h1>
+    <p>The Official Rulebook</p>
 
     <nav>
       <ul>
-        <li><a href="{{ '/' | relative_url }}">🏠 Philosophy</a></li>
-        <li><a href="{{ '/core-rules' | relative_url }}">📜 Core Rules</a></li>
-        <li><a href="{{ '/community-values' | relative_url }}">🤝 Community Values</a></li>
-        <li><a href="{{ '/general-expectations' | relative_url }}">📙 Expectations</a></li>
-        <li><a href="{{ '/roleplay-guidelines' | relative_url }}">🎭 RP Guidelines</a></li>
-        <li><a href="{{ '/hostile-roleplay' | relative_url }}">🔫 Hostile & KOS</a></li>
-        <li><a href="{{ '/character-kill-policy' | relative_url }}">☠️ CK Policy</a></li>
-        <li><a href="{{ '/base-building' | relative_url }}">🏰 Base Building</a></li>
-        <li><a href="{{ '/other-rules' | relative_url }}">⚙️ Misc Rules</a></li>
+        <li><a href="{{ '/' | relative_url }}">Philosophy</a></li>
+        <li><a href="{{ '/core-rules' | relative_url }}">Core Rules</a></li>
+        <li><a href="{{ '/community-values' | relative_url }}">Values</a></li>
+        <li><a href="{{ '/general-expectations' | relative_url }}">Expectations</a></li>
+        <li><a href="{{ '/roleplay-guidelines' | relative_url }}">RP Guidelines</a></li>
+        <li><a href="{{ '/hostile-roleplay' | relative_url }}">Hostile & KOS</a></li>
+        <li><a href="{{ '/character-kill-policy' | relative_url }}">CK Policy</a></li>
+        <li><a href="{{ '/base-building' | relative_url }}">Base Building</a></li>
+        <li><a href="{{ '/other-rules' | relative_url }}">Misc Rules</a></li>
       </ul>
     </nav>
   </header>
