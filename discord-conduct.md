@@ -1,3 +1,6 @@
+### [🏠 Home](./) | [📜 Rules](core-rules) | [🤝 Values](community-values) | [📙 Expectations](general-expectations) | [🎭 Guidelines](roleplay-guidelines) | [🔫 Hostile](hostile-roleplay) | [☠️ CK Policy](character-kill-policy) | [🏰 Building](base-building) | [⚙️ Misc](other-rules)
+---
+
 # 💻 3. Discord Conduct
 
 The **AshBorne RolePlay** Discord is much more than just a chatroom. It is the out-of-character (OOC) backbone of our entire community. This is the space where narratives are planned, mutual trust is forged, and support is given. 
