@@ -47,4 +47,9 @@ AshBorne is at its best when we actively support each other's creative visions.
 
 ---
 
-### [⬅️ Previous: Mission, Vision, & North Star](core-rules.md) | [➡️ Next Page: 2. General Expectations](general-expectations.md)
+<br><br>
+<hr>
+<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
+    <a href="./" style="text-decoration: none; color: #888;">⬅ PREVIOUS</a>
+    <a href="community-values" style="text-decoration: none; color: #ff6600;">NEXT: VALUES ➔</a>
+</div>
