@@ -1,3 +1,6 @@
+### [🏠 Home](./) | [📜 Rules](core-rules) | [🤝 Values](community-values) | [📙 Expectations](general-expectations) | [🎭 Guidelines](roleplay-guidelines) | [🔫 Hostile](hostile-roleplay) | [☠️ CK Policy](character-kill-policy) | [🏰 Building](base-building) | [⚙️ Misc](other-rules)
+---
+
 # 🌟 Core Philosophy: Mission, Vision, & The AshBorne Standard
 
 These foundational pillars are the absolute bedrock of the **AshBorne RolePlay** experience. 
