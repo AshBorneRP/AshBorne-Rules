@@ -60,12 +60,9 @@ AshBorne RolePlay is not a generic zombie sandbox. It is an established universe
 * Acknowledge the server's specific lore and let it shape your character's worldview.
 * Avoid bringing in concepts, references, or behaviors that completely break the tone of the AshBorne universe.
 * When server-wide broadcasts happen or lore events occur, react to them IC. You are a citizen of this world; act like it.
-
----
-
 <br><br>
-<hr>
-<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
-    <a href="./" style="text-decoration: none; color: #888;">⬅ PREVIOUS</a>
-    <a href="community-values" style="text-decoration: none; color: #ff6600;">NEXT: VALUES ➔</a>
+<hr style="margin-top: 50px; border: 0; border-top: 1px solid #222;">
+<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px; margin-bottom: 40px;">
+    <a href="general-expectations.html" style="text-decoration: none; color: #888;">⬅ PREVIOUS: EXPECTATIONS</a>
+    <a href="hostile-roleplay.html" style="text-decoration: none; color: #ff6600;">NEXT: HOSTILE & KOS ➔</a>
 </div>
