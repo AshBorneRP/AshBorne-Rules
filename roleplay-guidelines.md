@@ -1,6 +1,3 @@
-### [🏠 Home](./) | [📜 Rules](core-rules) | [🤝 Values](community-values) | [📙 Expectations](general-expectations) | [🎭 Guidelines](roleplay-guidelines) | [🔫 Hostile](hostile-roleplay) | [☠️ CK Policy](character-kill-policy) | [🏰 Building](base-building) | [⚙️ Misc](other-rules)
----
-
 # 🎮 4. Roleplay Guidelines
 
 **AshBorne RolePlay** is a strictly voice-operated, deeply immersive storytelling environment. Our world is built upon the conversations we have, the actions we take, and how we navigate the harsh realities of DayZ.
