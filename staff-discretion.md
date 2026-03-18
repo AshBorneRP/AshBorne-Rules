@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # ⚖️ 8. Staff Discretion & Community Trust
 
 Guidelines exist to protect the collective experience, not to stifle individual creativity. 
