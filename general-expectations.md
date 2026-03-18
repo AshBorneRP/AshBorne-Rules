@@ -65,4 +65,9 @@ AshBorne is an international community, but to ensure fair moderation and cohesi
 
 ---
 
-### [⬅️ Previous: Community Values](community-values.md) | [➡️ Next Page: 3. Discord Conduct](discord-conduct.md)
+<br><br>
+<hr>
+<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
+    <a href="./" style="text-decoration: none; color: #888;">⬅ PREVIOUS</a>
+    <a href="community-values" style="text-decoration: none; color: #ff6600;">NEXT: VALUES ➔</a>
+</div>
