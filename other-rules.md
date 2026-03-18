@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # ⚙️ 9. Miscellaneous Provisions
 
 Not every system requires its own dedicated chapter, but the following rules are essential for maintaining server stability, immersion, and fair play. These are the final "anchors" that keep the AshBorne experience grounded.
