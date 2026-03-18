@@ -1,3 +1,6 @@
+### [🏠 Home](./) | [📜 Rules](core-rules) | [🤝 Values](community-values) | [📙 Expectations](general-expectations) | [🎭 Guidelines](roleplay-guidelines) | [🔫 Hostile](hostile-roleplay) | [☠️ CK Policy](character-kill-policy) | [🏰 Building](base-building) | [⚙️ Misc](other-rules)
+---
+
 # 🔫 5. Hostile Roleplay
 
 Violence and fear are vital components of the **AshBorne RolePlay** universe. However, if your aggression does not serve the overarching narrative, it does not belong here.
