@@ -30,7 +30,7 @@ It is your personal responsibility to stay up-to-date with all the rules coverin
         JOIN THE DISCORD
     </a>
     <p style="font-size: 12px; color: #666; margin-top: 10px; font-style: italic;">
-        Whitelisting and Community Coordination happens here.
+        Join our community for support, announcements, and player coordination.
     </p>
 </div>
 
