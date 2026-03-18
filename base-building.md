@@ -74,8 +74,8 @@ We do not tolerate players who try to ruin the game for others out of out-of-cha
 * **Attackers:** If you are raiding the base, you may **never** shoot first without proper verbal initiation. 
 * Standard No Value of Life (NVL) and fear RP rules apply the moment the raid begins.
 <br><br>
-<hr>
-<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
-    <a href="./" style="text-decoration: none; color: #888;">⬅ PREVIOUS</a>
-    <a href="community-values" style="text-decoration: none; color: #ff6600;">NEXT: VALUES ➔</a>
+<hr style="margin-top: 50px; border: 0; border-top: 1px solid #222;">
+<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px; margin-bottom: 40px;">
+    <a href="character-kill-policy.html" style="text-decoration: none; color: #888;">⬅ PREVIOUS: CK POLICY</a>
+    <a href="other-rules.html" style="text-decoration: none; color: #ff6600;">NEXT: MISC RULES ➔</a>
 </div>
