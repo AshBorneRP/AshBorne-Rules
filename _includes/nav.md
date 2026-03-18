@@ -1,4 +1,3 @@
-### 🗺️ Navigation
 * [🏠 Philosophy](./)
 * [📜 Core Rules](core-rules)
 * [🤝 Community Values](community-values)
@@ -8,4 +7,3 @@
 * [☠️ Character Kill Policy](character-kill-policy)
 * [🏰 Base Building & Raiding](base-building)
 * [⚙️ Miscellaneous](other-rules)
----
