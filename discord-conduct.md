@@ -67,4 +67,9 @@ Every single message you send either builds this community up or chips away at i
 
 ---
 
-### [⬅️ Previous: 2. General Expectations](general-expectations.md) | [➡️ Next Page: 4. Roleplay Guidelines](roleplay-guidelines.md)
+<br><br>
+<hr>
+<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
+    <a href="./" style="text-decoration: none; color: #888;">⬅ PREVIOUS</a>
+    <a href="community-values" style="text-decoration: none; color: #ff6600;">NEXT: VALUES ➔</a>
+</div>
