@@ -35,9 +35,31 @@ We do not expect flawless execution of every rule. We expect **thoughtful partic
 AshBorne is a living, breathing entity. As the community shifts and the world grows, our rules will evolve. We are committed to listening, revising, and rebuilding alongside you. 
 
 We aren't just hosting a game server; we are defining what high-level, meaningful roleplay looks like. We are building this legacy together.
-<br><br>
+
+<div style="text-align: center; margin: 60px 0 40px 0; padding: 30px; background: #0f0f0f; border: 1px solid #1a1a1a; border-radius: 8px;">
+    <h3 style="margin-top: 0; color: #ffffff;">READY TO BEGIN?</h3>
+    <p style="color: #888; font-size: 14px; margin-bottom: 25px;">Join our Discord to meet the community, get support, and start your story.</p>
+    
+    <a href="https://discord.gg/rFTJvZNk59" target="_blank" style="
+        display: inline-block;
+        background: #5865F2;
+        color: #ffffff;
+        padding: 15px 35px;
+        font-family: 'Cinzel', serif;
+        font-size: 16px;
+        font-weight: bold;
+        text-decoration: none;
+        letter-spacing: 2px;
+        border-radius: 4px;
+        transition: 0.3s;
+        box-shadow: 0 4px 15px rgba(88, 101, 242, 0.3);
+    ">
+        JOIN THE DISCORD
+    </a>
+</div>
+
 <hr style="margin-top: 50px; border: 0; border-top: 1px solid #222;">
-<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px; margin-bottom: 40px;">
+<div style="display: flex; justify-content: space-between; align-items: center; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px; margin-bottom: 40px;">
     <a href="other-rules.html" style="text-decoration: none; color: #888;">⬅ PREVIOUS: MISC RULES</a>
-    <span style="color: #444;">END OF RULES</span>
+    <a href="https://www.ashborne.online" style="text-decoration: none; color: #ff6600; font-weight: bold; border: 1px solid #ff6600; padding: 10px 20px; border-radius: 4px;">RETURN HOME ➔</a>
 </div>
