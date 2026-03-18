@@ -42,12 +42,9 @@ Our Discord Radio channel is a direct extension of the game world. Use it with t
 Staff and Event Team members occasionally play unique characters marked by **Event Armbands**. 
 * **Rules of Engagement:** You *are* allowed to KOS these characters, but doing so is a massive waste of story. These characters carry "Self-Destruct" gear that is ruined upon death—meaning you get zero loot and lose 100% of the roleplay.
 * **The Golden Rule:** You are **never** permitted to remove the Event Armband from a living NPC character. Doing so will result in an immediate **3-day suspension** without the possibility of appeal.
-
----
-
 <br><br>
-<hr>
-<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
+<hr style="margin-top: 50px; border: 0; border-top: 1px solid #222;">
+<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px; margin-bottom: 40px;">
     <a href="base-building.html" style="text-decoration: none; color: #888;">⬅ PREVIOUS: BASE BUILDING</a>
     <a href="staff-discretion.html" style="text-decoration: none; color: #ff6600;">NEXT: STAFF DISCRETION ➔</a>
 </div>
