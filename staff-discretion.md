@@ -35,12 +35,9 @@ We do not expect flawless execution of every rule. We expect **thoughtful partic
 AshBorne is a living, breathing entity. As the community shifts and the world grows, our rules will evolve. We are committed to listening, revising, and rebuilding alongside you. 
 
 We aren't just hosting a game server; we are defining what high-level, meaningful roleplay looks like. We are building this legacy together.
-
----
-
 <br><br>
-<hr>
-<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
-    <a href="./" style="text-decoration: none; color: #888;">⬅ PREVIOUS</a>
-    <a href="community-values" style="text-decoration: none; color: #ff6600;">NEXT: VALUES ➔</a>
+<hr style="margin-top: 50px; border: 0; border-top: 1px solid #222;">
+<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px; margin-bottom: 40px;">
+    <a href="other-rules.html" style="text-decoration: none; color: #888;">⬅ PREVIOUS: MISC RULES</a>
+    <span style="color: #444;">END OF RULES</span>
 </div>
