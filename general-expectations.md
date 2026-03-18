@@ -1,6 +1,3 @@
-### [🏠 Home](./) | [📜 Rules](core-rules) | [🤝 Values](community-values) | [📙 Expectations](general-expectations) | [🎭 Guidelines](roleplay-guidelines) | [🔫 Hostile](hostile-roleplay) | [☠️ CK Policy](character-kill-policy) | [🏰 Building](base-building) | [⚙️ Misc](other-rules)
----
-
 # 📙 2. General Expectations
 
 These baseline standards apply to every single member of AshBorne RolePlay, during every session, regardless of your character's background or your personal playstyle. 
