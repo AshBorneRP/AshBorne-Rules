@@ -42,9 +42,6 @@ When we face difficult community choices, rule disputes, or high-tension scenari
 This is our ultimate filter. We operate on integrity, intent, and narrative value. Never out of ego, favoritism, or haste.
 
 Welcome to **AshBorne RolePlay**. 
-
----
-
 <br><br>
 <hr>
 <div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
