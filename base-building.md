@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # 🏰 7. Compounds & Raiding
 
 On AshBorne RolePlay, constructing a base is about establishing your footprint in the world, not hoarding weapons. A fortress must generate roleplay and serve a narrative purpose. 
