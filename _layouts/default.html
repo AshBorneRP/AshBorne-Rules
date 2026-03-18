@@ -10,7 +10,6 @@
   <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 
   <style>
-    /* Base Vibe: Dark, Gritty, Premium */
     body {
       font-family: 'Inter', sans-serif;
       line-height: 1.7;
@@ -20,7 +19,6 @@
       display: flex;
     }
 
-    /* Headings: Cinematic and Bold */
     h1, h2, h3, h4 {
       font-family: 'Cinzel', serif;
       color: #ffffff;
@@ -29,12 +27,10 @@
       margin-top: 2em;
     }
     
-    /* Headings Sizing */
     h1 { font-size: 1.8em; border-bottom: 1px solid #222; padding-bottom: 10px; margin-top: 0; }
     h2 { font-size: 1.5em; }
     h3 { font-size: 1.2em; color: #ff6600; }
 
-    /* Left Sidebar: Sleek and Website-like */
     header {
       width: 280px;
       height: 100vh;
@@ -47,7 +43,7 @@
     }
     header h1 { 
       font-size: 24px; 
-      color: #ff6600; /* AshBorne Orange */
+      color: #ff6600; 
       border-bottom: none;
       margin-bottom: 5px;
       text-transform: uppercase;
@@ -61,7 +57,6 @@
       line-height: 1.5;
     }
 
-    /* Sidebar Navigation Links */
     header ul { list-style: none; padding: 0; margin: 0; }
     header li { margin-bottom: 18px; }
     header a { 
@@ -76,7 +71,6 @@
     }
     header a:hover { color: #ff6600; padding-left: 8px; }
 
-    /* Main Content Area */
     .wrapper {
       margin-left: 280px;
       padding: 60px 8%;
@@ -85,7 +79,6 @@
       box-sizing: border-box;
     }
 
-    /* Formatting for Rules */
     .wrapper a { color: #ff6600; text-decoration: none; font-weight: 600; transition: 0.2s; }
     .wrapper a:hover { color: #ffffff; }
     hr { border: 0; border-top: 1px solid #222; margin: 50px 0; }
@@ -99,6 +92,42 @@
       font-style: italic;
     }
 
-    /* Mobile Responsive Fixes */
     @media (max-width: 850px) {
       body { display: block; }
+      header { width: 100%; height: auto; position: relative; border-right: none; border-bottom: 1px solid #222; padding: 30px 20px; }
+      header ul { display: flex; flex-wrap: wrap; gap: 15px; }
+      header li { margin-bottom: 0; }
+      .wrapper { margin-left: 0; padding: 40px 20px; }
+      h1 { font-size: 1.5em; } 
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>ASHBORNE RP</h1>
+    <p>The Official Rulebook<br>18+ DayZ Community</p>
+
+    <nav>
+      <ul>
+        <li><a href="./">Philosophy</a></li>
+        <li><a href="core-rules">Core Rules</a></li>
+        <li><a href="community-values">Values</a></li>
+        <li><a href="general-expectations">Expectations</a></li>
+        <li><a href="roleplay-guidelines">RP Guidelines</a></li>
+        <li><a href="hostile-roleplay">Hostile & KOS</a></li>
+        <li><a href="character-kill-policy">CK Policy</a></li>
+        <li><a href="base-building">Base Building</a></li>
+        <li><a href="other-rules">Misc Rules</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div class="wrapper">
+    <section>
+      {{ content }}
+    </section>
+  </div>
+
+</body>
+</html>
