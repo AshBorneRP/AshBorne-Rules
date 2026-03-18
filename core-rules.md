@@ -41,4 +41,5 @@ Welcome to **AshBorne RolePlay**.
 
 ---
 
-### [⬅️ Previous: Server Rules Intro](general-rules.md) | [➡️ Next Page: In-Game Rules](in-game-rules.md)
+### [⬅️ Previous: Server Rules Intro](general-rules.md) | [➡️ Next Page: Community Values](community-values.md)
+
