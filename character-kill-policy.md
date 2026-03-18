@@ -47,9 +47,6 @@ Evasion includes:
 * Creating a "clone" of your dead character (same personality, new name) to instantly rejoin your old group.
 
 Attempting to evade a CK will result in a total back-end wipe of your character, forced removal from all storylines, and potential permanent bans. We protect the weight of consequence fiercely.
-
----
-
 <br><br>
 <hr>
 <div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
