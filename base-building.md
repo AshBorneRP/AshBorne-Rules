@@ -76,4 +76,9 @@ We do not tolerate players who try to ruin the game for others out of out-of-cha
 
 ---
 
-### [⬅️ Previous: 6. Character Permadeath](character-kill-policy.md) | [➡️ Next Page: 8. Staff Discretion & Player Trust](staff-discretion.md)
+<br><br>
+<hr>
+<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
+    <a href="./" style="text-decoration: none; color: #888;">⬅ PREVIOUS</a>
+    <a href="community-values" style="text-decoration: none; color: #ff6600;">NEXT: VALUES ➔</a>
+</div>
