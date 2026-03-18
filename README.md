@@ -23,4 +23,4 @@ Welcome to **AshBorne RolePlay**. Tell your story.
 
 ---
 
-### [➡️ Next Page: General Rules](general-rules.md)
+### [➡️ Next Page: General Rules](general-rules.md) 
