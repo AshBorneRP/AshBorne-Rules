@@ -73,9 +73,6 @@ We do not tolerate players who try to ruin the game for others out of out-of-cha
 * **Defenders (Soft Raids):** If you catch someone sneaking in through an open door, you **must** verbally initiate before shooting them, unless they aim at you first.
 * **Attackers:** If you are raiding the base, you may **never** shoot first without proper verbal initiation. 
 * Standard No Value of Life (NVL) and fear RP rules apply the moment the raid begins.
-
----
-
 <br><br>
 <hr>
 <div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
