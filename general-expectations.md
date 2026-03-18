@@ -62,9 +62,6 @@ We encourage dark, complex, and morally gray storytelling, but this is never an 
 AshBorne is an international community, but to ensure fair moderation and cohesive storytelling, **English** must be the primary language used both IC and OOC.
 * You may absolutely use brief phrases in other languages to add cultural flavor to your character.
 * However, you cannot use a foreign language to exclude others from a scene, hide motives, or bypass IC communication.
-
----
-
 <br><br>
 <hr>
 <div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
