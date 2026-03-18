@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # 🎭 Our RolePlay Philosophy
 
 **AshBorne RolePlay** is dedicated to fostering deep, realistic, and grounded storytelling. 
