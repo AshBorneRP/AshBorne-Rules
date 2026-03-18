@@ -21,12 +21,9 @@ Our staff enforces these guidelines consistently, always taking the context of t
 If you approach this server with genuine intent and a willingness to uphold our standards, you will find AshBorne to be a place where incredible stories unfold, conflicts hold real weight, and characters leave a lasting legacy.
 
 Welcome to **AshBorne RolePlay**. Tell your story.
-
----
-
 <br><br>
-<hr>
-<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
-    <span></span>
-    <a href="core-rules" style="text-decoration: none; color: #ff6600;">NEXT: CORE RULES ➔</a>
+<hr style="margin-top: 50px; border: 0; border-top: 1px solid #222;">
+<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px; margin-bottom: 40px;">
+    <a href="./" style="text-decoration: none; color: #888;">⬅ PREVIOUS: WELCOME</a>
+    <a href="discord-conduct.html" style="text-decoration: none; color: #ff6600;">NEXT: DISCORD CONDUCT ➔</a>
 </div>
