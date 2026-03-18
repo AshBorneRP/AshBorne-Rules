@@ -50,4 +50,9 @@ Attempting to evade a CK will result in a total back-end wipe of your character,
 
 ---
 
-### [⬅️ Previous: 5. Hostile Roleplay](hostile-roleplay.md) | [➡️ Next Page: 7. Base Building & Raiding](base-building.md)
+<br><br>
+<hr>
+<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
+    <a href="./" style="text-decoration: none; color: #888;">⬅ PREVIOUS</a>
+    <a href="community-values" style="text-decoration: none; color: #ff6600;">NEXT: VALUES ➔</a>
+</div>
