@@ -12,8 +12,8 @@ It is your personal responsibility to stay up-to-date with all the rules coverin
 
 > **Note:** All rule infractions and their resulting punishments are handled at the discretion of the AshBorne RolePlay Staff Team. We will always take the player's underlying intentions and the context of the situation into account when reviewing a ticket.
 <br><br>
-<hr>
-<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
-    <a href="./" style="text-decoration: none; color: #888;">⬅ PREVIOUS</a>
-    <a href="community-values" style="text-decoration: none; color: #ff6600;">NEXT: VALUES ➔</a>
+<hr style="margin-top: 50px; border: 0; border-top: 1px solid #222;">
+<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px; margin-bottom: 40px;">
+    <span></span>
+    <a href="core-rules.html" style="text-decoration: none; color: #ff6600;">NEXT: CORE RULES ➔</a>
 </div>
