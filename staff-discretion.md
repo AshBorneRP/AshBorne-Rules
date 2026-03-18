@@ -1,6 +1,3 @@
-### [🏠 Home](./) | [📜 Rules](core-rules) | [🤝 Values](community-values) | [📙 Expectations](general-expectations) | [🎭 Guidelines](roleplay-guidelines) | [🔫 Hostile](hostile-roleplay) | [☠️ CK Policy](character-kill-policy) | [🏰 Building](base-building) | [⚙️ Misc](other-rules)
----
-
 # ⚖️ 8. Staff Discretion & Community Trust
 
 Guidelines exist to protect the collective experience, not to stifle individual creativity. 
