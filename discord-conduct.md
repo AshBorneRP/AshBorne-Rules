@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 💻 3. Discord Conduct
 
 The **AshBorne RolePlay** Discord is much more than just a chatroom. It is the out-of-character (OOC) backbone of our entire community. This is the space where narratives are planned, mutual trust is forged, and support is given. 
