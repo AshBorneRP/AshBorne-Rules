@@ -38,4 +38,9 @@ We aren't just hosting a game server; we are defining what high-level, meaningfu
 
 ---
 
-### [⬅️ Previous: 7. Base Building & Raiding](base-building.md) | [➡️ Next Page: 9. Final Provisions](other-rules.md)
+<br><br>
+<hr>
+<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
+    <a href="./" style="text-decoration: none; color: #888;">⬅ PREVIOUS</a>
+    <a href="community-values" style="text-decoration: none; color: #ff6600;">NEXT: VALUES ➔</a>
+</div>
