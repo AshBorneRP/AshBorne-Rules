@@ -29,7 +29,7 @@ They dictate how we moderate, how we play, and how our community evolves. These 
 > *We don't care about being the most populated server on the list.*
 > *We care about being the most unforgettable one.*
 
-### ⚖️ The AshBorne Standard (Our North Star)
+### ⚖️ The AshBorne Standard
 
 > *"We maintain this environment so that every hour you spend here translates into a story worth telling."*
 
