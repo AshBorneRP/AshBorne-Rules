@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # 🌟 Core Philosophy: Mission, Vision, & The AshBorne Standard
 
 These foundational pillars are the absolute bedrock of the **AshBorne RolePlay** experience. 
