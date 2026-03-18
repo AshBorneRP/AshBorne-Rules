@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # ☠️ 6. Character Permadeath (CK) Policy
 
 On AshBorne RolePlay, the vast majority of in-game deaths are treated as critical injuries. Your character blacks out, is theoretically rescued, and eventually wakes up in a medical facility with hazy memories and lasting physical scars. You survive, but the world takes its toll.
