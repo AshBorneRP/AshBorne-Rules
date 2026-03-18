@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 🎮 4. Roleplay Guidelines
 
 **AshBorne RolePlay** is a strictly voice-operated, deeply immersive storytelling environment. Our world is built upon the conversations we have, the actions we take, and how we navigate the harsh realities of DayZ.
