@@ -109,4 +109,49 @@
     @media (max-width: 850px) {
       body { display: block; }
       header { width: 100%; height: auto; position: relative; border-right: none; border-bottom: 1px solid #222; padding: 30px 20px; }
-      header ul {
+      header ul { display: flex; flex-wrap: wrap; gap: 15px; }
+      header li { margin-bottom: 0; }
+      .wrapper { margin-left: 0; padding: 40px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>ASHBORNE RP</h1>
+    <p>The Official Rulebook<br>18+ DayZ Community</p>
+
+    <nav>
+      <ul>
+        <li><a href="https://www.ashborne.online" target="_blank" style="color: #ffffff; border-bottom: 1px solid #333; padding-bottom: 10px; margin-bottom: 20px;">🏠 Main Website</a></li>
+        
+        <li><a href="./">Welcome</a></li>
+        <li><a href="philosophy.html">Our Philosophy</a></li>
+        <li><a href="core-rules.html">Core Rules</a></li>
+        <li><a href="discord-conduct.html">Discord Conduct</a></li>
+        <li><a href="community-values.html">Community Values</a></li>
+        <li><a href="general-expectations.html">General Expectations</a></li>
+        <li><a href="roleplay-guidelines.html">RP Guidelines</a></li>
+        <li><a href="hostile-roleplay.html">Hostile & KOS</a></li>
+        <li><a href="character-kill-policy.html">CK Policy</a></li>
+        <li><a href="base-building.html">Base Building</a></li>
+        <li><a href="factions-settlements.html">Factions & Settlements</a></li>
+        <li><a href="other-rules.html">Misc Rules</a></li>
+        <li><a href="staff-discretion.html">Staff Discretion</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div class="wrapper">
+    <section style="flex: 1;">
+      {{ content }}
+    </section>
+
+    <footer>
+        &copy; 2024-2026 ASHBORNE ROLEPLAY. ALL RIGHTS RESERVED.<br>
+        UNAUTHORIZED DUPLICATION OR DISTRIBUTION OF THESE RULES IS PROHIBITED.
+    </footer>
+  </div>
+
+</body>
+</html>
