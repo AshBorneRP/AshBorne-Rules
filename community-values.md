@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 🤝 1. Community Values
 
 **AshBorne RolePlay** thrives on cooperative, narrative-driven gameplay. While we offer immense creative freedom to our players, that freedom requires a high level of accountability. 
