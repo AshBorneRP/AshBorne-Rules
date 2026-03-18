@@ -1,4 +1,4 @@
-# 🛡️ [AshBorne RolePlay] Official Rules
+# 🛡️ [AshBorne RP] Official Rules
 
 Welcome to **[AshBorne DayZ RolePlay]**! To ensure everyone has a fun, fair, and safe experience, all players are expected to read and follow these rules. Ignorance of the rules is not an excuse.
 
