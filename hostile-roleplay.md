@@ -77,12 +77,9 @@ If your hostile action is reported or results in a major character death, staff 
 We are not interested in writing 500 hyper-specific rules to script your gunfights. We are interested in building a world where choices matter.
 Play a dangerous character. Start a faction war. Be the villain of the server. 
 But when you pull that trigger—**make it count.**
-
----
-
 <br><br>
-<hr>
-<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
-    <a href="./" style="text-decoration: none; color: #888;">⬅ PREVIOUS</a>
-    <a href="community-values" style="text-decoration: none; color: #ff6600;">NEXT: VALUES ➔</a>
+<hr style="margin-top: 50px; border: 0; border-top: 1px solid #222;">
+<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px; margin-bottom: 40px;">
+    <a href="roleplay-guidelines.html" style="text-decoration: none; color: #888;">⬅ PREVIOUS: RP GUIDELINES</a>
+    <a href="character-kill-policy.html" style="text-decoration: none; color: #ff6600;">NEXT: CK POLICY ➔</a>
 </div>
