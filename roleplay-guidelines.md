@@ -63,4 +63,9 @@ AshBorne RolePlay is not a generic zombie sandbox. It is an established universe
 
 ---
 
-### [⬅️ Previous: 3. Discord Conduct](discord-conduct.md) | [➡️ Next Page: 5. Hostile Role Play](hostile-roleplay.md)
+<br><br>
+<hr>
+<div style="display: flex; justify-content: space-between; font-family: 'Cinzel', serif; font-size: 14px; letter-spacing: 1px;">
+    <a href="./" style="text-decoration: none; color: #888;">⬅ PREVIOUS</a>
+    <a href="community-values" style="text-decoration: none; color: #ff6600;">NEXT: VALUES ➔</a>
+</div>
